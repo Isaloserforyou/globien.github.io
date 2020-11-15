@@ -112,3 +112,5 @@ friends: [
         href: "https://www.zhihu.com/people/henry-jiang-78" 
     }
 ]
+
+theme: jekyll-theme-merlot
